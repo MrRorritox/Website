@@ -1,0 +1,54 @@
+.bg-verdeagua{
+	background-color: #e3f2fd;
+}
+
+.texto-footer{
+	font-size: 12;
+}
+
+ul{
+	list-style: none;
+}
+.zoom {
+	overflow:hidden;
+}
+
+
+.zoom:hover{
+	transform:	scale(1.02);
+}
+
+.centrar-2{display: block; padding-left: 200px;}
+.centrar-1{display: block; padding-left: 250px;}
+.centrar{display: block; padding-left: 300px;}
+.centrar1{display: block; padding-left: 350px;}
+.centrar2{display: block; padding-left: 400px;}
+
+._marco_img {
+	padding: 0.25rem;
+	background-color: #fff;
+	border: 1px solid #dee2e6;
+	border-radius: 0.25rem;
+	max-width: 100%;
+	height: auto;
+  }
+.margi{
+	margin-left: 15%;
+	margin-top: 15%;
+	margin-bottom: 15%;
+}
+
+.padi{
+	padding-left: 30px;
+	margin-left: 15px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.letras{
+	font-size: x-large;
+	font-family: 'Times New Roman', Times, serif;
+}
+.padileft{
+	padding-left: 20%;
+}
+
